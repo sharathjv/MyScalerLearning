@@ -1,1 +1,2 @@
-This is my First Checkin..
+This is my First Checkin.
+This is my 2nd edit checkin to my File.
